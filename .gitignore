@@ -1,0 +1,9 @@
+**/__pycache__
+.auctex-auto/**
+_minted-code_on_doc/**
+venv
+venv_pypy
+*.zip
+*.org
+*.pdf
+*.tex
